@@ -15,6 +15,7 @@ namespace TestConsoleApplicationGitFlow
             // Test Develop Branch Commit  1
             // Test Develop Branch Commit  2
             // Test Feature Three Commit  1
+            // Test Feature Three Commit  2
         }
     }
 }
