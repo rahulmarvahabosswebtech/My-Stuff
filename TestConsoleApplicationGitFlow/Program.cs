@@ -11,6 +11,7 @@ namespace TestConsoleApplicationGitFlow
         static void Main(string[] args)
         {
             // Test Feature One Commit  1
+            // Test Feature One Commit  2
         }
     }
 }
