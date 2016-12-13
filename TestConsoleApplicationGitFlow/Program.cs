@@ -10,6 +10,7 @@ namespace TestConsoleApplicationGitFlow
     {
         static void Main(string[] args)
         {
+            // Test Release One Commit  1
         }
     }
 }
